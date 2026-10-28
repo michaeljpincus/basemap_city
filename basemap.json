@@ -15,7 +15,7 @@
     "base": {
       "type": "vector",
       "url": "https://tiles.openfreemap.org/planet",
-      "attribution": "&copy; <a href=\"https://openfreemap.org\">OpenFreeMap</a> &copy; OpenMapTiles, data &copy; OpenStreetMap contributors"
+      "attribution": "&copy; <a href=\"https://openfreemap.org\">OpenFreeMap</a> &copy; OpenMapTiles, data &copy; OpenStreetMap contributors | Style: Michael Pincus"
     },
     "extra-country-labels": {
       "type": "geojson",
